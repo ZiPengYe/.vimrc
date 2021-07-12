@@ -55,6 +55,5 @@ nnoremap <silent> <cr> :nohlsearch<cr><cr>
 " Plugin
 let g:NERDTreeDirArrowExpandable = '+'
 let g:NERDTreeDirArrowCollapsible = '-'
-autocmd FileType markdown let b:surround_88 = "**\r**"
 " Keymap
 map <C-n> :NERDTreeToggle<CR>
